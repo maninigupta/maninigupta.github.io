@@ -1,0 +1,50 @@
+body {
+	text-align: center;
+	background: #000 url(http://i.imgur.com/Bibw91L.jpg?1);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+
+}
+img {
+	border: black 5px solid;
+	margin-bottom: 20px;
+
+}
+h1 {
+	color: white;
+	background-color: rgba(0,0,0,0.7);
+	margin: 20px 35%;
+
+}
+
+h2, p {
+	color: white;
+	background-color: rgba(0,0,0,0.7);
+	margin: 0px 20%;
+	padding: 10px
+}
+
+h3 {
+	color: white;
+	background-color: rgba(0,0,0,0.7);
+	margin: 0px 20%;
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+button {
+	margin: 10px;
+	width: 80px;
+	height: 30px;
+	background-color: rgba(0,0,0,0.9)
+}
+
+button:hover {
+	background-color: purple;
+}
